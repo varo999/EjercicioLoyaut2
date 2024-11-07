@@ -1,0 +1,22 @@
+<resources>
+    <string name="texto_largo"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+Mauris accumsan nulla nec nulla venenatis pretium. Sed viverra auctor felis, a aliquam enim dapibus a. Integer tempor purus vel ligula tempor, ac vulputate felis ultricies. Phasellus lobortis cursus orci, sit amet posuere risus. Curabitur sit amet ante vitae justo lobortis elementum vel quis velit. Fusce at metus in eros cursus blandit. Aliquam sollicitudin, eros sed aliquet sodales, libero mi tristique enim, nec varius turpis ipsum id purus.
+
+Quisque sed justo at odio dignissim tempor. Curabitur faucibus auctor interdum. Proin mollis dui ut ex laoreet, nec sollicitudin dui ullamcorper. Donec sollicitudin, arcu ac dictum iaculis, augue sapien dignissim turpis, euismod euismod nunc sapien id purus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Etiam tempus neque in ligula sollicitudin, et congue sapien tincidunt.
+
+Sed condimentum nunc ut dui viverra volutpat. Maecenas gravida sapien sit amet volutpat facilisis. Cras ac libero sed urna dictum fermentum. Integer quis orci ac metus condimentum convallis sit amet in lectus. Morbi malesuada magna ut augue iaculis sollicitudin. Donec maximus ex vel felis fermentum, sit amet maximus ipsum rhoncus. Aliquam fringilla nisl in orci feugiat, vel dignissim magna bibendum. Sed ac dui lorem.
+www.lacaixa.com
+
+Fusce imperdiet mi id lectus tincidunt, ac fermentum orci scelerisque. Nulla facilisi. Nulla a malesuada nisi. Aenean feugiat lorem non orci convallis, vitae pretium turpis aliquet. Nulla cursus, orci in pharetra venenatis, turpis neque scelerisque lorem, nec ultricies erat risus ac magna. Integer sit amet gravida elit. Integer tempor vel nulla non interdum. Etiam sed velit ipsum. Nam ullamcorper justo ac ipsum auctor, vitae tempor turpis varius.
+
+Aliquam volutpat sit amet erat non feugiat. Aenean laoreet tristique tempor. Proin lacinia, libero vel fringilla venenatis, mi lorem placerat ligula, sed mollis odio leo sed ligula. Vestibulum sit amet tortor vitae eros suscipit efficitur. Nulla sollicitudin, tortor eu condimentum facilisis, sapien arcu tincidunt erat, nec dictum ante libero ut erat. Sed sit amet pharetra tortor, vel sodales sapien. Nam id sapien et neque interdum iaculis. Morbi nec urna et ipsum consequat dignissim.
+
+Vestibulum viverra quam nisi, ac dictum felis rutrum vel. Vivamus imperdiet velit sed velit tempus, in rutrum turpis convallis. Suspendisse potenti. Cras vitae sagittis purus. Nam malesuada sollicitudin est, et pretium enim. Vivamus orci libero, dictum a purus ac, fermentum vulputate justo. Sed ullamcorper bibendum elit, nec tincidunt tortor finibus a. Vivamus venenatis quam ac augue consequat, non vulputate metus convallis.
+
+Duis egestas est ac augue placerat, eu tempor purus rutrum. Sed tempus sapien eu ipsum euismod, ac malesuada erat feugiat. Integer vestibulum euismod enim in aliquam. Aenean egestas est nec erat fermentum, eu varius purus sodales. Etiam laoreet ligula libero, non tincidunt purus facilisis et. Sed id mauris eu ante eleifend egestas non nec nunc. Aliquam erat volutpat. Donec et metus nisi. Nam euismod arcu vitae odio elementum, at volutpat lectus tincidunt.</string>
+
+
+    <string name="app_name">EjercicioLoyaut2</string>
+
+</resources>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:background="@color/azul"
+        android:padding="10dp"
+        android:text="Scrolling text"
+        android:layout_marginBottom="16dp"
+        />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/textView1">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="35dp"
+            android:layout_marginRight="35dp">
+
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:padding="10dp"
+                android:text="Beatles Anthology Vol. 1"
+                android:layout_marginBottom="16dp"
+                android:background="@color/azul"
+                />
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/textView2"
+                android:layout_alignParentStart="true"
+                android:text="Subtítulo" />
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/textView2"
+                android:layout_centerHorizontal="true"
+                android:layout_marginBottom="16dp"
+                android:layout_toEndOf="@id/textView3"
+                android:autoLink="web"
+                android:text="@string/texto_largo" />
+            <Button
+                android:id="@+id/miBoton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/textView4"
+                android:text="ADD COMENT" />
+            <EditText
+                android:id="@+id/editTextComentario"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/miBoton"
+                android:layout_marginBottom="16dp"
+                android:hint="Escribe tu comentario"
+                 />
+
+            <TextView
+                android:id="@+id/textViewComentario"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/editTextComentario" />
+
+
+        </RelativeLayout>
+
+    </ScrollView>
+
+</RelativeLayout>
